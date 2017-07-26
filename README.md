@@ -1,5 +1,6 @@
 # CJProgressHUD
-copy SVProgressHUD，自己修改了一些方法，使其满足北极星的项目需求
+copy SVProgressHUD (https://github.com/SVProgressHUD/SVProgressHUD.git)
+这里自己修改了一些方法，使其满足北极星的项目需求
 
 # Installation
 
